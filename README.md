@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Gradle-5.6-green)
 ![](https://img.shields.io/badge/Java-8-yellow)
 
-A simple DynamicList implementation using Generics.
+A simple Linked List implementation using Generics.
 
  ### How to Use
  - execute the following commands
